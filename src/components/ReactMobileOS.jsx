@@ -8,7 +8,7 @@ const Mobile = ()=>{
                 <li>Android</li>
                 <li>Blackberry</li>
                 <li>iPhone</li>
-                <li>Windows Phone</li>
+                <li>Windows Phones</li>
             </ul>
             <h1>Mobile Manufacturers</h1>
             <ul>
